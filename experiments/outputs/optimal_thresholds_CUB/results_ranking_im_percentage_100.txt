@@ -1,0 +1,627 @@
+--------------------------------------------------------------
+Ranking of concepts best suited for thresholding based on cosine similarity :
+--------------------------------------------------------------
+1. Attribute 59. The bird's back is blue.: Threshold = 0.24538040906190872, Balanced Accuracy = 0.8703913055350755
+
+2. Attribute 121. The bird's throat is blue.: Threshold = 0.2554229646921158, Balanced Accuracy = 0.8629774024994613
+
+3. Attribute 183. The bird's nape is blue.: Threshold = 0.2622874975204468, Balanced Accuracy = 0.8595562142204214
+
+4. Attribute 198. The bird's belly is blue.: Threshold = 0.2612743377685547, Balanced Accuracy = 0.8532430961194217
+
+5. Attribute 211. The bird's belly is red.: Threshold = 0.2595593184232712, Balanced Accuracy = 0.8527663234116343
+
+6. Attribute 196. The bird's nape is red.: Threshold = 0.26218128204345703, Balanced Accuracy = 0.8517931480949543
+
+7. Attribute 5. The bird has a hooked bill, typical of seabirds.: Threshold = 0.2757512629032135, Balanced Accuracy = 0.8504010297284753
+
+8. Attribute 127. The bird's throat is yellow.: Threshold = 0.26136067509651184, Balanced Accuracy = 0.8479442104801362
+
+9. Attribute 10. The bird's wings are primarily blue in color.: Threshold = 0.28150850534439087, Balanced Accuracy = 0.8454677136655759
+
+10. Attribute 168. The underside of the bird's tail is blue.: Threshold = 0.2748245894908905, Balanced Accuracy = 0.8376135941353333
+
+11. Attribute 134. The bird's throat is red.: Threshold = 0.249764546751976, Balanced Accuracy = 0.8349317542901269
+
+12. Attribute 119. The bird's breast is red.: Threshold = 0.25844429433345795, Balanced Accuracy = 0.8335661042706779
+
+13. Attribute 53. The bird's underparts are red.: Threshold = 0.25962868332862854, Balanced Accuracy = 0.8322191378512662
+
+14. Attribute 204. The bird's belly is yellow.: Threshold = 0.2651037275791168, Balanced Accuracy = 0.8318884571002536
+
+15. Attribute 106. The bird's breast is blue.: Threshold = 0.26168346405029297, Balanced Accuracy = 0.8308816620240005
+
+16. Attribute 112. The bird's breast is yellow.: Threshold = 0.26642581820487976, Balanced Accuracy = 0.8279578242504467
+
+17. Attribute 189. The bird's nape is yellow.: Threshold = 0.273925319314003, Balanced Accuracy = 0.8266136162861135
+
+18. Attribute 25. The bird's upper body is blue.: Threshold = 0.2840351164340973, Balanced Accuracy = 0.8261023668109648
+
+19. Attribute 153. The bird's forehead is blue.: Threshold = 0.26320353150367737, Balanced Accuracy = 0.8256690963623795
+
+20. Attribute 72. The bird's back is red.: Threshold = 0.25916121900081635, Balanced Accuracy = 0.823417502594258
+
+21. Attribute 129. The bird's throat is green.: Threshold = 0.2564270347356796, Balanced Accuracy = 0.8171111992762443
+
+22. Attribute 40. The bird's underparts are blue.: Threshold = 0.2636275887489319, Balanced Accuracy = 0.8164649917467084
+
+23. Attribute 65. The bird's back is yellow.: Threshold = 0.250241681933403, Balanced Accuracy = 0.811784812297331
+
+24. Attribute 249. The bird's primary body color is blue.: Threshold = 0.2898729741573334, Balanced Accuracy = 0.8087848995026736
+
+25. Attribute 80. The bird's upper tail is blue.: Threshold = 0.2884100377559662, Balanced Accuracy = 0.8072240687113335
+
+26. Attribute 166. The bird's forehead is red.: Threshold = 0.2601001113653183, Balanced Accuracy = 0.8066109768434244
+
+27. Attribute 191. The bird's nape is green.: Threshold = 0.2626182734966278, Balanced Accuracy = 0.7995667784657723
+
+28. Attribute 67. The bird's back is green.: Threshold = 0.24110079556703568, Balanced Accuracy = 0.7977206749824362
+
+29. Attribute 226. The bird has a body shape similar to ducks.: Threshold = 0.2656579315662384, Balanced Accuracy = 0.7936858710536694
+
+30. Attribute 46. The bird's underparts are yellow.: Threshold = 0.2750643789768219, Balanced Accuracy = 0.7928895654499211
+
+31. Attribute 206. The bird's belly is green.: Threshold = 0.25679442286491394, Balanced Accuracy = 0.790204326923077
+
+32. Attribute 228. The bird has a body shape similar to gulls.: Threshold = 0.2810312360525131, Balanced Accuracy = 0.7871558020423416
+
+33. Attribute 109. The bird's breast is purple.: Threshold = 0.25232774019241333, Balanced Accuracy = 0.7839530332681017
+
+34. Attribute 23. The bird's wings are red.: Threshold = 0.23750708997249603, Balanced Accuracy = 0.7808906742112849
+
+35. Attribute 48. The bird's underparts are green.: Threshold = 0.2645193487405777, Balanced Accuracy = 0.7796343179083791
+
+36. Attribute 38. The bird's upper body is red.: Threshold = 0.28068937361240387, Balanced Accuracy = 0.779445587662877
+
+37. Attribute 114. The bird's breast is green.: Threshold = 0.2587182968854904, Balanced Accuracy = 0.7768238100343053
+
+38. Attribute 159. The bird's forehead is yellow.: Threshold = 0.2666303962469101, Balanced Accuracy = 0.7681051295502457
+
+39. Attribute 262. The bird's primary body color is red.: Threshold = 0.2905770242214203, Balanced Accuracy = 0.7632676246622452
+
+40. Attribute 208. The bird's belly is orange.: Threshold = 0.2582469582557678, Balanced Accuracy = 0.7618448404449452
+
+41. Attribute 181. The underside of the bird's tail is red.: Threshold = 0.2781755328178406, Balanced Accuracy = 0.7546399885255306
+
+42. Attribute 16. The bird's wings have yellow tones.: Threshold = 0.27366654574871063, Balanced Accuracy = 0.7511069167490261
+
+43. Attribute 225. The bird has long legs suitable for wading.: Threshold = 0.28399235010147095, Balanced Accuracy = 0.7464076559836602
+
+44. Attribute 255. The bird's primary body color is yellow.: Threshold = 0.2945791929960251, Balanced Accuracy = 0.7455233899500779
+
+45. Attribute 257. The bird's primary body color is green.: Threshold = 0.28967925906181335, Balanced Accuracy = 0.7449942595629562
+
+46. Attribute 279. The bird's bill is blue.: Threshold = 0.2512672245502472, Balanced Accuracy = 0.7436045849053209
+
+47. Attribute 93. The bird's upper tail is red.: Threshold = 0.2855995446443558, Balanced Accuracy = 0.7434196229186337
+
+48. Attribute 14. The bird's wings display a rufous (reddish-brown) hue.: Threshold = 0.2678796052932739, Balanced Accuracy = 0.7378239517049068
+
+49. Attribute 50. The bird's underparts are orange.: Threshold = 0.26553989946842194, Balanced Accuracy = 0.7362928697662359
+
+50. Attribute 307. The bird's crown (top of the head) is red.: Threshold = 0.27087101340293884, Balanced Accuracy = 0.7307670485719702
+
+51. Attribute 201. The bird's belly is purple.: Threshold = 0.2607782781124115, Balanced Accuracy = 0.7299191857026566
+
+52. Attribute 116. The bird's breast is orange.: Threshold = 0.2567235976457596, Balanced Accuracy = 0.7290014000286489
+
+53. Attribute 186. The bird's nape is purple.: Threshold = 0.26030613481998444, Balanced Accuracy = 0.7248520567803853
+
+54. Attribute 174. The underside of the bird's tail is yellow.: Threshold = 0.27478158473968506, Balanced Accuracy = 0.7217779292357078
+
+55. Attribute 66. The bird's back is olive.: Threshold = 0.24827039241790771, Balanced Accuracy = 0.7192659140765733
+
+56. Attribute 161. The bird's forehead is green.: Threshold = 0.2562442570924759, Balanced Accuracy = 0.7168814761890665
+
+57. Attribute 31. The bird's upper body is yellow.: Threshold = 0.2857744097709656, Balanced Accuracy = 0.716021985333916
+
+58. Attribute 63. The bird's back is rufous (reddish-brown).: Threshold = 0.2691890597343445, Balanced Accuracy = 0.7148135467488373
+
+59. Attribute 29. The bird's upper body is rufous (reddish-brown).: Threshold = 0.2860760986804962, Balanced Accuracy = 0.7119101822479319
+
+60. Attribute 33. The bird's upper body is green.: Threshold = 0.28181183338165283, Balanced Accuracy = 0.7116806468350052
+
+61. Attribute 294. The bird's crown (top of the head) is blue.: Threshold = 0.2705945670604706, Balanced Accuracy = 0.7063831260943769
+
+62. Attribute 272. The bird's legs are green.: Threshold = 0.26472166180610657, Balanced Accuracy = 0.7037260065864763
+
+63. Attribute 18. The bird's wings are primarily green.: Threshold = 0.2701210230588913, Balanced Accuracy = 0.7032798591736416
+
+64. Attribute 187. The bird's nape is rufous (reddish-brown).: Threshold = 0.26664575934410095, Balanced Accuracy = 0.7026534820846422
+
+65. Attribute 110. The bird's breast is rufous (reddish-brown).: Threshold = 0.2797310948371887, Balanced Accuracy = 0.7017988028818354
+
+66. Attribute 44. The bird's underparts are rufous (reddish-brown).: Threshold = 0.2855524569749832, Balanced Accuracy = 0.6983565782985273
+
+67. Attribute 253. The bird's primary body color is rufous (reddish-brown).: Threshold = 0.284042626619339, Balanced Accuracy = 0.6973247805032464
+
+68. Attribute 202. The bird's belly is rufous (reddish-brown).: Threshold = 0.276648685336113, Balanced Accuracy = 0.6968439807651439
+
+69. Attribute 190. The bird's nape is olive.: Threshold = 0.26376380026340485, Balanced Accuracy = 0.6949582027168234
+
+70. Attribute 88. The bird's upper tail is green.: Threshold = 0.287133052945137, Balanced Accuracy = 0.6938771434277726
+
+71. Attribute 20. The bird's wings have orange coloration.: Threshold = 0.27428559958934784, Balanced Accuracy = 0.6933401013063317
+
+72. Attribute 176. The underside of the bird's tail is green.: Threshold = 0.26696960628032684, Balanced Accuracy = 0.6919952770980226
+
+73. Attribute 193. The bird's nape is orange.: Threshold = 0.2537170499563217, Balanced Accuracy = 0.6914198334298849
+
+74. Attribute 35. The bird's upper body is orange.: Threshold = 0.2807961404323578, Balanced Accuracy = 0.6892688016524544
+
+75. Attribute 300. The bird's crown (top of the head) is yellow.: Threshold = 0.27234767377376556, Balanced Accuracy = 0.688709217802632
+
+76. Attribute 131. The bird's throat is orange.: Threshold = 0.2542206794023514, Balanced Accuracy = 0.6851548866969468
+
+77. Attribute 298. The bird's crown (top of the head) is rufous (reddish-brown).: Threshold = 0.26443666219711304, Balanced Accuracy = 0.6844623748705557
+
+78. Attribute 205. The bird's belly is olive.: Threshold = 0.25778982043266296, Balanced Accuracy = 0.6833720044010352
+
+79. Attribute 69. The bird's back is orange.: Threshold = 0.24234096705913544, Balanced Accuracy = 0.6809245226412721
+
+80. Attribute 61. The bird's back has an iridescent sheen.: Threshold = 0.2579825669527054, Balanced Accuracy = 0.68025806494268
+
+81. Attribute 43. The bird's underparts are purple.: Threshold = 0.26654230058193207, Balanced Accuracy = 0.6786526256544696
+
+82. Attribute 132. The bird's throat is black.: Threshold = 0.2561073452234268, Balanced Accuracy = 0.6770347380420765
+
+83. Attribute 113. The bird's breast is olive.: Threshold = 0.26406434178352356, Balanced Accuracy = 0.6770303801538704
+
+84. Attribute 124. The bird's throat is purple.: Threshold = 0.2570570707321167, Balanced Accuracy = 0.6750213128729753
+
+85. Attribute 303. The bird's crown (top of the head) is pink.: Threshold = 0.2670174390077591, Balanced Accuracy = 0.6714333096422649
+
+86. Attribute 259. The bird's primary body color is orange.: Threshold = 0.2863615155220032, Balanced Accuracy = 0.6713461723331304
+
+87. Attribute 264. The bird's legs are blue.: Threshold = 0.2652795910835266, Balanced Accuracy = 0.6703512414912002
+
+88. Attribute 209. The bird's belly is black.: Threshold = 0.2654023766517639, Balanced Accuracy = 0.6697719991615128
+
+89. Attribute 86. The bird's upper tail is yellow.: Threshold = 0.2949146032333374, Balanced Accuracy = 0.6689092717318523
+
+90. Attribute 163. The bird's forehead is orange.: Threshold = 0.25238192081451416, Balanced Accuracy = 0.6685173141499542
+
+91. Attribute 62. The bird's back is purple.: Threshold = 0.2291315793991089, Balanced Accuracy = 0.66746376547041
+
+92. Attribute 128. The bird's throat is olive.: Threshold = 0.25725317001342773, Balanced Accuracy = 0.6666381582084663
+
+93. Attribute 84. The bird's upper tail is rufous (reddish-brown).: Threshold = 0.2971319258213043, Balanced Accuracy = 0.6641879344108779
+
+94. Attribute 17. The bird's wings are olive-colored.: Threshold = 0.27842578291893005, Balanced Accuracy = 0.6638126157256892
+
+95. Attribute 47. The bird's underparts are olive.: Threshold = 0.26956547796726227, Balanced Accuracy = 0.6630888526119403
+
+96. Attribute 292. The bird's bill is red.: Threshold = 0.24164967238903046, Balanced Accuracy = 0.6630347696136647
+
+97. Attribute 156. The bird's forehead is purple.: Threshold = 0.25770212709903717, Balanced Accuracy = 0.6615762869390387
+
+98. Attribute 194. The bird's nape is black.: Threshold = 0.2675414979457855, Balanced Accuracy = 0.6600900519920604
+
+99. Attribute 238. The bird's back has a spotted pattern.: Threshold = 0.26661860942840576, Balanced Accuracy = 0.6591744161746239
+
+100. Attribute 51. The bird's underparts are black.: Threshold = 0.27249881625175476, Balanced Accuracy = 0.6588962265793001
+
+101. Attribute 12. The bird's wings have an iridescent sheen.: Threshold = 0.2582242786884308, Balanced Accuracy = 0.6588071543490807
+
+102. Attribute 256. The bird's primary body color is olive.: Threshold = 0.2897917926311493, Balanced Accuracy = 0.6580511144824367
+
+103. Attribute 200. The bird's belly has an iridescent sheen.: Threshold = 0.2775349020957947, Balanced Accuracy = 0.6569475559073817
+
+104. Attribute 162. The bird's forehead is pink.: Threshold = 0.2734673321247101, Balanced Accuracy = 0.655490488358887
+
+105. Attribute 172. The underside of the bird's tail is rufous (reddish-brown).: Threshold = 0.27059558033943176, Balanced Accuracy = 0.6538938851289073
+
+106. Attribute 49. The bird's underparts are pink.: Threshold = 0.266921803355217, Balanced Accuracy = 0.6529729422464756
+
+107. Attribute 4. The bird has a long, needle-like bill.: Threshold = 0.2600187659263611, Balanced Accuracy = 0.6521550993903186
+
+108. Attribute 125. The bird's throat is rufous (reddish-brown).: Threshold = 0.2560037076473236, Balanced Accuracy = 0.6520274635838536
+
+109. Attribute 178. The underside of the bird's tail is orange.: Threshold = 0.27139104902744293, Balanced Accuracy = 0.6514517608217167
+
+110. Attribute 157. The bird's forehead is rufous (reddish-brown).: Threshold = 0.2713177502155304, Balanced Accuracy = 0.6509530026549426
+
+111. Attribute 217. The bird has long wings.: Threshold = 0.25400978326797485, Balanced Accuracy = 0.648556067126077
+
+112. Attribute 310. The bird's wings have a spotted pattern.: Threshold = 0.2754586637020111, Balanced Accuracy = 0.6481024247310608
+
+113. Attribute 130. The bird's throat is pink.: Threshold = 0.28281262516975403, Balanced Accuracy = 0.6480539142193609
+
+114. Attribute 117. The bird's breast is black.: Threshold = 0.26441964507102966, Balanced Accuracy = 0.6469546306435305
+
+115. Attribute 229. The bird has a body shape similar to hummingbirds.: Threshold = 0.28476500511169434, Balanced Accuracy = 0.6465716962196939
+
+116. Attribute 108. The bird's breast has an iridescent sheen.: Threshold = 0.27203063666820526, Balanced Accuracy = 0.6457152154882
+
+117. Attribute 270. The bird's legs are yellow.: Threshold = 0.2607852816581726, Balanced Accuracy = 0.6449199548292812
+
+118. Attribute 251. The bird's primary body color has an iridescent sheen.: Threshold = 0.2921789586544037, Balanced Accuracy = 0.6440585392103164
+
+119. Attribute 136. The bird's eyes are blue.: Threshold = 0.2480941191315651, Balanced Accuracy = 0.6420203170673899
+
+120. Attribute 277. The bird's legs are red.: Threshold = 0.253406822681427, Balanced Accuracy = 0.6392664587045811
+
+121. Attribute 282. The bird's bill is purple.: Threshold = 0.2556650638580322, Balanced Accuracy = 0.638687599087429
+
+122. Attribute 28. The bird's upper body is purple.: Threshold = 0.2717174291610718, Balanced Accuracy = 0.6374774141738606
+
+123. Attribute 13. The bird's wings feature purple coloration.: Threshold = 0.2822084277868271, Balanced Accuracy = 0.6370801908872428
+
+124. Attribute 175. The underside of the bird's tail is olive.: Threshold = 0.2671945244073868, Balanced Accuracy = 0.6364572053204749
+
+125. Attribute 304. The bird's crown (top of the head) is orange.: Threshold = 0.2668587267398834, Balanced Accuracy = 0.6355384535655058
+
+126. Attribute 90. The bird's upper tail is orange.: Threshold = 0.2901318818330765, Balanced Accuracy = 0.6352565657570913
+
+127. Attribute 165. The bird's forehead is white.: Threshold = 0.26366059482097626, Balanced Accuracy = 0.6344393902336646
+
+128. Attribute 295. The bird's crown (top of the head) is brown.: Threshold = 0.2707233130931854, Balanced Accuracy = 0.633179479646871
+
+129. Attribute 42. The bird's underparts have an iridescent sheen.: Threshold = 0.28534312546253204, Balanced Accuracy = 0.6320670309170286
+
+130. Attribute 260. The bird's primary body color is black.: Threshold = 0.28484782576560974, Balanced Accuracy = 0.6319130583918264
+
+131. Attribute 308. The bird's crown (top of the head) is buff (pale yellow-brown).: Threshold = 0.2791071683168411, Balanced Accuracy = 0.6316154022869451
+
+132. Attribute 171. The underside of the bird's tail is purple.: Threshold = 0.26302842795848846, Balanced Accuracy = 0.6312190235502857
+
+133. Attribute 287. The bird's bill is green.: Threshold = 0.2590731680393219, Balanced Accuracy = 0.6308248299319728
+
+134. Attribute 192. The bird's nape is pink.: Threshold = 0.25047723948955536, Balanced Accuracy = 0.6295824131700463
+
+135. Attribute 123. The bird's throat has an iridescent sheen.: Threshold = 0.2777188718318939, Balanced Accuracy = 0.6268075578040733
+
+136. Attribute 266. The bird's legs have an iridescent sheen.: Threshold = 0.2755476385354996, Balanced Accuracy = 0.6246212259501296
+
+137. Attribute 2. The bird has a sharp, dagger-like bill.: Threshold = 0.25021035969257355, Balanced Accuracy = 0.6232626744028866
+
+138. Attribute 70. The bird's back is black.: Threshold = 0.24609429389238358, Balanced Accuracy = 0.6229598233322138
+
+139. Attribute 227. The bird has a body shape similar to owls.: Threshold = 0.27329887449741364, Balanced Accuracy = 0.6218100836041036
+
+140. Attribute 56. The bird's breast has a spotted pattern.: Threshold = 0.2739456444978714, Balanced Accuracy = 0.6190946377031747
+
+141. Attribute 32. The bird's upper body is olive.: Threshold = 0.28518572449684143, Balanced Accuracy = 0.6175422854623934
+
+142. Attribute 231. The bird clings to tree trunks.: Threshold = 0.2518831789493561, Balanced Accuracy = 0.6154545700000245
+
+143. Attribute 68. The bird's back is pink.: Threshold = 0.2284373715519905, Balanced Accuracy = 0.6150979557069847
+
+144. Attribute 195. The bird's nape is white.: Threshold = 0.2693568170070648, Balanced Accuracy = 0.613874622331456
+
+145. Attribute 246. The bird's belly has a spotted pattern.: Threshold = 0.28685200214385986, Balanced Accuracy = 0.61168015658155
+
+146. Attribute 164. The bird's forehead is black.: Threshold = 0.2608099430799484, Balanced Accuracy = 0.6107469167926587
+
+147. Attribute 185. The bird's nape has an iridescent sheen.: Threshold = 0.2890877425670624, Balanced Accuracy = 0.6096325525275046
+
+148. Attribute 89. The bird's upper tail is pink.: Threshold = 0.27961888909339905, Balanced Accuracy = 0.6088473887484296
+
+149. Attribute 242. The bird's tail has a spotted pattern.: Threshold = 0.29164500534534454, Balanced Accuracy = 0.6088359288402587
+
+150. Attribute 115. The bird's breast is pink.: Threshold = 0.26581674814224243, Balanced Accuracy = 0.6077608250937606
+
+151. Attribute 210. The bird's belly is white.: Threshold = 0.2643279582262039, Balanced Accuracy = 0.6068845247232506
+
+152. Attribute 258. The bird's primary body color is pink.: Threshold = 0.29160076379776, Balanced Accuracy = 0.6068432698678602
+
+153. Attribute 239. The bird's back has a striped pattern.: Threshold = 0.258873388171196, Balanced Accuracy = 0.6068054558929843
+
+154. Attribute 34. The bird's upper body is pink.: Threshold = 0.2836884558200836, Balanced Accuracy = 0.6056571559355616
+
+155. Attribute 82. The bird's upper tail has an iridescent sheen.: Threshold = 0.2893376052379608, Balanced Accuracy = 0.6050206322087861
+
+156. Attribute 21. The bird's wings are black.: Threshold = 0.2377832606434822, Balanced Accuracy = 0.6048992131233659
+
+157. Attribute 252. The bird's primary body color is purple.: Threshold = 0.29018427431583405, Balanced Accuracy = 0.604301600879873
+
+158. Attribute 232. The bird has a body shape similar to hawks.: Threshold = 0.2671702355146408, Balanced Accuracy = 0.6031745612972625
+
+159. Attribute 111. The bird's breast is grey.: Threshold = 0.25402724742889404, Balanced Accuracy = 0.6026280248719713
+
+160. Attribute 207. The bird's belly is pink.: Threshold = 0.26980069279670715, Balanced Accuracy = 0.6025413763706382
+
+161. Attribute 118. The bird's breast is white.: Threshold = 0.26275692880153656, Balanced Accuracy = 0.6016902116192414
+
+162. Attribute 87. The bird's upper tail is olive.: Threshold = 0.2791246622800827, Balanced Accuracy = 0.6011370617679346
+
+163. Attribute 52. The bird's underparts are white.: Threshold = 0.26890729367733, Balanced Accuracy = 0.600745504108682
+
+164. Attribute 275. The bird's legs are black.: Threshold = 0.2651694715023041, Balanced Accuracy = 0.6007101330142185
+
+165. Attribute 155. The bird's forehead has an iridescent sheen.: Threshold = 0.2806008905172348, Balanced Accuracy = 0.5999827730220992
+
+166. Attribute 95. The bird's head has a spotted pattern.: Threshold = 0.26387493312358856, Balanced Accuracy = 0.5999744583413498
+
+167. Attribute 254. The bird's primary body color is grey.: Threshold = 0.28534021973609924, Balanced Accuracy = 0.5998798899155048
+
+168. Attribute 19. The bird's wings have a pinkish hue.: Threshold = 0.254300981760025, Balanced Accuracy = 0.5994704000838971
+
+169. Attribute 83. The bird's upper tail is purple.: Threshold = 0.2890576273202896, Balanced Accuracy = 0.5994269015802763
+
+170. Attribute 170. The underside of the bird's tail has an iridescent sheen.: Threshold = 0.26606445014476776, Balanced Accuracy = 0.5986626858244697
+
+171. Attribute 296. The bird's crown (top of the head) has an iridescent sheen.: Threshold = 0.26815585792064667, Balanced Accuracy = 0.5981183429056318
+
+172. Attribute 151. The bird's bill is longer than its head.: Threshold = 0.25878041982650757, Balanced Accuracy = 0.5969752649959892
+
+173. Attribute 104. The bird's head has a striped pattern.: Threshold = 0.27213503420352936, Balanced Accuracy = 0.5958101255299693
+
+174. Attribute 73. The bird's back is buff (pale yellow-brown).: Threshold = 0.2787056863307953, Balanced Accuracy = 0.5955488826192091
+
+175. Attribute 179. The underside of the bird's tail is black.: Threshold = 0.2779771685600281, Balanced Accuracy = 0.5953567631118795
+
+176. Attribute 285. The bird's bill is yellow.: Threshold = 0.250900536775589, Balanced Accuracy = 0.5952513471498417
+
+177. Attribute 30. The bird's upper body is grey.: Threshold = 0.2800106108188629, Balanced Accuracy = 0.5949552687892408
+
+178. Attribute 71. The bird's back is white.: Threshold = 0.24999254196882248, Balanced Accuracy = 0.5942522328988494
+
+179. Attribute 45. The bird's underparts are grey.: Threshold = 0.2637494206428528, Balanced Accuracy = 0.5941736039559113
+
+180. Attribute 302. The bird's crown (top of the head) is green.: Threshold = 0.2591919004917145, Balanced Accuracy = 0.5939229044269092
+
+181. Attribute 64. The bird's back is grey.: Threshold = 0.24588389694690704, Balanced Accuracy = 0.5933983151021633
+
+182. Attribute 290. The bird's bill is black.: Threshold = 0.24653782695531845, Balanced Accuracy = 0.5932791613556885
+
+183. Attribute 261. The bird's primary body color is white.: Threshold = 0.2876763194799423, Balanced Accuracy = 0.593273386222088
+
+184. Attribute 167. The bird's forehead is buff (pale yellow-brown).: Threshold = 0.28834398090839386, Balanced Accuracy = 0.593052065942391
+
+185. Attribute 267. The bird's legs are purple.: Threshold = 0.2546483427286148, Balanced Accuracy = 0.5920910676817455
+
+186. Attribute 74. The bird has a forked tail.: Threshold = 0.25081053376197815, Balanced Accuracy = 0.5911789783721348
+
+187. Attribute 143. The bird's eyes are green.: Threshold = 0.2541875094175339, Balanced Accuracy = 0.5911067697273422
+
+188. Attribute 286. The bird's bill is olive-colored.: Threshold = 0.27269403636455536, Balanced Accuracy = 0.5906745633406947
+
+189. Attribute 184. The bird's nape is brown.: Threshold = 0.27381186187267303, Balanced Accuracy = 0.5899090090466786
+
+190. Attribute 219. The bird is small, measuring 5 to 9 inches.: Threshold = 0.2714569568634033, Balanced Accuracy = 0.5895112546564387
+
+191. Attribute 60. The bird's back is brown.: Threshold = 0.24776388704776764, Balanced Accuracy = 0.5892238738783708
+
+192. Attribute 126. The bird's throat is grey.: Threshold = 0.2542586028575897, Balanced Accuracy = 0.5887354603522084
+
+193. Attribute 203. The bird's belly is grey.: Threshold = 0.25602681934833527, Balanced Accuracy = 0.5878163823969396
+
+194. Attribute 15. The bird's wings are mostly grey.: Threshold = 0.2665244787931442, Balanced Accuracy = 0.5874379383745167
+
+195. Attribute 158. The bird's forehead is grey.: Threshold = 0.2560124695301056, Balanced Accuracy = 0.5858631454569253
+
+196. Attribute 107. The bird's breast is brown.: Threshold = 0.2567311227321625, Balanced Accuracy = 0.5851386273854351
+
+197. Attribute 297. The bird's crown (top of the head) is purple.: Threshold = 0.25927162170410156, Balanced Accuracy = 0.5851014596583513
+
+198. Attribute 220. The bird is very large, measuring 32 to 72 inches.: Threshold = 0.2711477726697922, Balanced Accuracy = 0.5850377152070019
+
+199. Attribute 278. The bird's legs are buff (pale yellow-brown).: Threshold = 0.2830830216407776, Balanced Accuracy = 0.5834225066107892
+
+200. Attribute 188. The bird's nape is grey.: Threshold = 0.2615755647420883, Balanced Accuracy = 0.5820850022458575
+
+201. Attribute 22. The bird's wings are white.: Threshold = 0.23880808055400848, Balanced Accuracy = 0.579329749881621
+
+202. Attribute 222. The bird is very small, measuring 3 to 5 inches.: Threshold = 0.27347204089164734, Balanced Accuracy = 0.5789733023270824
+
+203. Attribute 230. The bird has a body shape similar to pigeons.: Threshold = 0.2716471254825592, Balanced Accuracy = 0.5781595846084076
+
+204. Attribute 138. The bird's eyes are purple.: Threshold = 0.23509341478347778, Balanced Accuracy = 0.5771122439346739
+
+205. Attribute 36. The bird's upper body is black.: Threshold = 0.28103816509246826, Balanced Accuracy = 0.576941810467773
+
+206. Attribute 11. The bird's wings are mostly brown.: Threshold = 0.2687154710292816, Balanced Accuracy = 0.5767659001598617
+
+207. Attribute 41. The bird's underparts are brown.: Threshold = 0.26919253170490265, Balanced Accuracy = 0.5756415518239215
+
+208. Attribute 97. The bird has a crest on its head.: Threshold = 0.2579319477081299, Balanced Accuracy = 0.5754937378092297
+
+209. Attribute 135. The bird's throat is buff (pale yellow-brown).: Threshold = 0.2911393344402313, Balanced Accuracy = 0.5753155301943254
+
+210. Attribute 37. The bird's upper body is white.: Threshold = 0.280914306640625, Balanced Accuracy = 0.5748035428419902
+
+211. Attribute 27. The bird's upper body has an iridescent sheen.: Threshold = 0.2891698330640793, Balanced Accuracy = 0.5736611185784692
+
+212. Attribute 57. The bird's breast has a striped pattern.: Threshold = 0.27769388258457184, Balanced Accuracy = 0.5729688360066788
+
+213. Attribute 91. The bird's upper tail is black.: Threshold = 0.28923240303993225, Balanced Accuracy = 0.5728842749339631
+
+214. Attribute 24. The bird's wings have a buff (pale yellow-brown) coloration.: Threshold = 0.2782284915447235, Balanced Accuracy = 0.5721049986186144
+
+215. Attribute 122. The bird's throat is brown.: Threshold = 0.2621423602104187, Balanced Accuracy = 0.572000898805118
+
+216. Attribute 299. The bird's crown (top of the head) is grey.: Threshold = 0.2659267783164978, Balanced Accuracy = 0.571658911140513
+
+217. Attribute 306. The bird's crown (top of the head) is white.: Threshold = 0.2724396288394928, Balanced Accuracy = 0.5714896134874212
+
+218. Attribute 223. The bird has an upright posture and is water-adapted.: Threshold = 0.2842134088277817, Balanced Accuracy = 0.571475723095631
+
+219. Attribute 288. The bird's bill is pink.: Threshold = 0.23777367174625397, Balanced Accuracy = 0.5711994512552354
+
+220. Attribute 197. The bird's nape is buff (pale yellow-brown).: Threshold = 0.27784718573093414, Balanced Accuracy = 0.5704841852187235
+
+221. Attribute 180. The underside of the bird's tail is white.: Threshold = 0.2728240638971329, Balanced Accuracy = 0.5703857280839031
+
+222. Attribute 120. The bird's breast is buff (pale yellow-brown).: Threshold = 0.2760165184736252, Balanced Accuracy = 0.5688546519599871
+
+223. Attribute 54. The bird's underparts are buff (pale yellow-brown).: Threshold = 0.27914200723171234, Balanced Accuracy = 0.5685963283749261
+
+224. Attribute 39. The bird's upper body is buff (pale yellow-brown).: Threshold = 0.2793341428041458, Balanced Accuracy = 0.5682931250107721
+
+225. Attribute 85. The bird's upper tail is grey.: Threshold = 0.2816275954246521, Balanced Accuracy = 0.5673647319223865
+
+226. Attribute 212. The bird's belly is buff (pale yellow-brown).: Threshold = 0.28647150099277496, Balanced Accuracy = 0.566643445317838
+
+227. Attribute 233. The bird has a body shape similar to sandpipers.: Threshold = 0.28793904185295105, Balanced Accuracy = 0.5665174137197093
+
+228. Attribute 26. The bird's upper body is brown.: Threshold = 0.2760947346687317, Balanced Accuracy = 0.5661900568321674
+
+229. Attribute 142. The bird's eyes are olive.: Threshold = 0.2525836378335953, Balanced Accuracy = 0.5650847649827068
+
+230. Attribute 273. The bird's legs are pink.: Threshold = 0.2574627101421356, Balanced Accuracy = 0.564214466246069
+
+231. Attribute 281. The bird's bill has an iridescent sheen.: Threshold = 0.23605221509933472, Balanced Accuracy = 0.5629626120407042
+
+232. Attribute 247. The bird's belly has a striped pattern.: Threshold = 0.27832329273223877, Balanced Accuracy = 0.5619472647893013
+
+233. Attribute 311. The bird's wings have a striped pattern.: Threshold = 0.2669670581817627, Balanced Accuracy = 0.5616100680150123
+
+234. Attribute 271. The bird's legs are olive-colored.: Threshold = 0.30266842246055603, Balanced Accuracy = 0.5610413117546849
+
+235. Attribute 301. The bird's crown (top of the head) is olive-colored.: Threshold = 0.2660866379737854, Balanced Accuracy = 0.5608628318792227
+
+236. Attribute 199. The bird's belly is brown.: Threshold = 0.2648390829563141, Balanced Accuracy = 0.5607351275075935
+
+237. Attribute 305. The bird's crown (top of the head) is black.: Threshold = 0.2743990868330002, Balanced Accuracy = 0.5606100219833523
+
+238. Attribute 276. The bird's legs are white.: Threshold = 0.2736925482749939, Balanced Accuracy = 0.5604607136462743
+
+239. Attribute 94. The bird's upper tail is buff (pale yellow-brown).: Threshold = 0.28455615043640137, Balanced Accuracy = 0.5604555924801207
+
+240. Attribute 133. The bird's throat is white.: Threshold = 0.259681761264801, Balanced Accuracy = 0.5603560204492255
+
+241. Attribute 250. The bird's primary body color is brown.: Threshold = 0.2848111540079117, Balanced Accuracy = 0.5601472473354572
+
+242. Attribute 289. The bird's bill is orange.: Threshold = 0.2409936860203743, Balanced Accuracy = 0.5600756427182111
+
+243. Attribute 169. The underside of the bird's tail is brown.: Threshold = 0.26855602860450745, Balanced Accuracy = 0.5600471884567508
+
+244. Attribute 147. The bird's eyes are white.: Threshold = 0.26326578855514526, Balanced Accuracy = 0.55991657740124
+
+245. Attribute 248. The bird's belly has a multi-colored pattern.: Threshold = 0.27222150564193726, Balanced Accuracy = 0.5587297180449713
+
+246. Attribute 263. The bird's primary body color is buff (pale yellow-brown).: Threshold = 0.2917788326740265, Balanced Accuracy = 0.5582833045118145
+
+247. Attribute 265. The bird's legs are brown.: Threshold = 0.2603233605623245, Balanced Accuracy = 0.5563380450392935
+
+248. Attribute 92. The bird's upper tail is white.: Threshold = 0.2855278551578522, Balanced Accuracy = 0.5543884716518643
+
+249. Attribute 182. The underside of the bird's tail is buff (pale yellow-brown).: Threshold = 0.2735264003276825, Balanced Accuracy = 0.5538026330105538
+
+250. Attribute 55. The bird's breast has a solid color.: Threshold = 0.26646964251995087, Balanced Accuracy = 0.5516998385174111
+
+251. Attribute 145. The bird's eyes are orange.: Threshold = 0.2593487501144409, Balanced Accuracy = 0.549707658228789
+
+252. Attribute 245. The bird's belly has a solid color.: Threshold = 0.2663676589727402, Balanced Accuracy = 0.5493467352059238
+
+253. Attribute 137. The bird's eyes are brown.: Threshold = 0.25567570328712463, Balanced Accuracy = 0.5488359322808286
+
+254. Attribute 237. The bird's back has a solid color.: Threshold = 0.2567316144704819, Balanced Accuracy = 0.5466795703111235
+
+255. Attribute 243. The bird's tail has a striped pattern.: Threshold = 0.27941951155662537, Balanced Accuracy = 0.5464734072266486
+
+256. Attribute 173. The underside of the bird's tail is grey.: Threshold = 0.2729427218437195, Balanced Accuracy = 0.5463387097665424
+
+257. Attribute 150. The bird's bill is about the same length as its head.: Threshold = 0.26401354372501373, Balanced Accuracy = 0.546074775729506
+
+258. Attribute 58. The bird's breast has a multi-colored pattern.: Threshold = 0.2697138041257858, Balanced Accuracy = 0.5458604775653734
+
+259. Attribute 8. The bird has a conical-shaped bill, often seen in seed-eating birds.: Threshold = 0.28784486651420593, Balanced Accuracy = 0.5452341191593943
+
+260. Attribute 235. The bird has a body shape similar to swallows.: Threshold = 0.27601103484630585, Balanced Accuracy = 0.544708370354996
+
+261. Attribute 216. The bird has tapered wings.: Threshold = 0.24922841787338257, Balanced Accuracy = 0.5442918051964043
+
+262. Attribute 140. The bird's eyes are grey.: Threshold = 0.25164103507995605, Balanced Accuracy = 0.544176716467591
+
+263. Attribute 291. The bird's bill is white.: Threshold = 0.24170953035354614, Balanced Accuracy = 0.5432359769274959
+
+264. Attribute 139. The bird's eyes are rufous (reddish-brown).: Threshold = 0.2916049659252167, Balanced Accuracy = 0.5425547310640892
+
+265. Attribute 9. The bird has a uniquely specialized bill for its feeding habits.: Threshold = 0.2617577761411667, Balanced Accuracy = 0.541960268486598
+
+266. Attribute 160. The bird's forehead is olive.: Threshold = 0.24729955196380615, Balanced Accuracy = 0.5414075428388405
+
+267. Attribute 293. The bird's bill is buff (pale yellow-brown).: Threshold = 0.2664806395769119, Balanced Accuracy = 0.5402316615370126
+
+268. Attribute 236. The bird has a perching bird body type.: Threshold = 0.2707444280385971, Balanced Accuracy = 0.5390550167219263
+
+269. Attribute 141. The bird's eyes are yellow.: Threshold = 0.25506238639354706, Balanced Accuracy = 0.538398609264751
+
+270. Attribute 81. The bird's upper tail is brown.: Threshold = 0.2847737520933151, Balanced Accuracy = 0.5378272410189356
+
+271. Attribute 3. The bird has a hooked bill, useful for tearing food.: Threshold = 0.24228478223085403, Balanced Accuracy = 0.5371340792369772
+
+272. Attribute 274. The bird's legs are orange.: Threshold = 0.23712411522865295, Balanced Accuracy = 0.5367733137341539
+
+273. Attribute 148. The bird's eyes are red.: Threshold = 0.2539593577384949, Balanced Accuracy = 0.5362446793217034
+
+274. Attribute 98. The bird has a black mask-like marking on its head.: Threshold = 0.26737023890018463, Balanced Accuracy = 0.5348118054392137
+
+275. Attribute 154. The bird's forehead is brown.: Threshold = 0.25757504999637604, Balanced Accuracy = 0.534562650072226
+
+276. Attribute 224. The bird resembles a chicken and is often found in marshy areas.: Threshold = 0.2815321832895279, Balanced Accuracy = 0.5341609841540387
+
+277. Attribute 77. The bird has a fan-shaped tail.: Threshold = 0.26798291504383087, Balanced Accuracy = 0.5339385819425937
+
+278. Attribute 149. The bird's eyes are buff (pale yellow-brown).: Threshold = 0.2705531120300293, Balanced Accuracy = 0.5333928519583079
+
+279. Attribute 312. The bird's wings have a multi-colored pattern.: Threshold = 0.27134521305561066, Balanced Accuracy = 0.5331661380243088
+
+280. Attribute 96. The bird has a dark malar stripe along its cheek.: Threshold = 0.2911738157272339, Balanced Accuracy = 0.5331243155223081
+
+281. Attribute 7. The bird has a versatile bill suitable for multiple purposes.: Threshold = 0.2707204073667526, Balanced Accuracy = 0.5303670737209862
+
+282. Attribute 79. The bird has a squared tail.: Threshold = 0.2594318091869354, Balanced Accuracy = 0.5302874792099241
+
+283. Attribute 144. The bird's eyes are pink.: Threshold = 0.23007044196128845, Balanced Accuracy = 0.5287473749929054
+
+284. Attribute 240. The bird's back has a multi-colored pattern.: Threshold = 0.25070685148239136, Balanced Accuracy = 0.528345435951199
+
+285. Attribute 234. The bird is adapted for upland ground habitats.: Threshold = 0.28474386036396027, Balanced Accuracy = 0.5283266480641786
+
+286. Attribute 244. The bird's tail has a multi-colored pattern.: Threshold = 0.2669898718595505, Balanced Accuracy = 0.5277820180749553
+
+287. Attribute 241. The bird's tail has a solid color.: Threshold = 0.27182725071907043, Balanced Accuracy = 0.5275092053270303
+
+288. Attribute 102. The bird's head has a plain coloration.: Threshold = 0.2781747579574585, Balanced Accuracy = 0.5264895003738618
+
+289. Attribute 280. The bird's bill is brown.: Threshold = 0.2528705894947052, Balanced Accuracy = 0.526484074144228
+
+290. Attribute 268. The bird's legs are rufous (reddish-brown).: Threshold = 0.302029550075531, Balanced Accuracy = 0.521490303164124
+
+291. Attribute 75. The bird has a rounded tail.: Threshold = 0.2620724141597748, Balanced Accuracy = 0.5170115454242348
+
+292. Attribute 269. The bird's legs are grey.: Threshold = 0.23749993741512299, Balanced Accuracy = 0.5167552003994088
+
+293. Attribute 177. The underside of the bird's tail is pink.: Threshold = 0.30099402368068695, Balanced Accuracy = 0.5164044150755114
+
+294. Attribute 101. The bird has a distinct eyering surrounding its eyes.: Threshold = 0.2660970687866211, Balanced Accuracy = 0.5163532584210789
+
+295. Attribute 283. The bird's bill is rufous (reddish-brown).: Threshold = 0.3086036890745163, Balanced Accuracy = 0.5159596279437957
+
+296. Attribute 99. The bird has a unique pattern on its head.: Threshold = 0.2800527811050415, Balanced Accuracy = 0.5155511043971565
+
+297. Attribute 103. The bird has a visible eyeline stripe on its head.: Threshold = 0.29132014513015747, Balanced Accuracy = 0.5151946779811949
+
+298. Attribute 218. The bird is large, measuring 16 to 32 inches.: Threshold = 0.27494990825653076, Balanced Accuracy = 0.5147445093077776
+
+299. Attribute 215. The bird has broad wings.: Threshold = 0.25605447590351105, Balanced Accuracy = 0.5146402929813161
+
+300. Attribute 105. The bird's head has a distinct capped marking.: Threshold = 0.28763097524642944, Balanced Accuracy = 0.5135100374728198
+
+301. Attribute 1. The bird has a curved bill that bends up or down.: Threshold = 0.23791559040546417, Balanced Accuracy = 0.5122265122265123
+
+302. Attribute 78. The bird has a pointed tail.: Threshold = 0.2520783543586731, Balanced Accuracy = 0.5073797093269367
+
+303. Attribute 76. The bird has a notched tail.: Threshold = 0.2554916888475418, Balanced Accuracy = 0.5070389350510427
+
+304. Attribute 6. The bird has a broad, spatula-shaped bill.: Threshold = 0.259762778878212, Balanced Accuracy = 0.506293736723222
+
+305. Attribute 284. The bird's bill is grey.: Threshold = 0.2201496884226799, Balanced Accuracy = 0.5055005354748707
+
+306. Attribute 152. The bird's bill is shorter than its head.: Threshold = 0.22910190373659134, Balanced Accuracy = 0.5040164126907946
+
+307. Attribute 214. The bird has pointed wings.: Threshold = 0.2300143539905548, Balanced Accuracy = 0.503834100405741
+
+308. Attribute 213. The bird has rounded wings.: Threshold = 0.26446571946144104, Balanced Accuracy = 0.5035086465002278
+
+309. Attribute 146. The bird's eyes are black.: Threshold = 0.22431644797325134, Balanced Accuracy = 0.5024065871971253
+
+310. Attribute 309. The bird's wings have a solid color pattern.: Threshold = 0.3084617108106613, Balanced Accuracy = 0.5003343757309056
+
+311. Attribute 221. The bird is medium-sized, measuring 9 to 16 inches.: Threshold = 0.3060905337333679, Balanced Accuracy = 0.5002888281552276
+
+312. Attribute 100. The bird has a light eyebrow marking above its eyes.: Threshold = 0.20177849382162094, Balanced Accuracy = 0.5000482160077145
+

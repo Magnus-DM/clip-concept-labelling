@@ -1,0 +1,312 @@
+1. The bird has a curved bill that bends up or down.
+2. The bird has a sharp, dagger-like bill.
+3. The bird has a hooked bill, useful for tearing food.
+4. The bird has a long, needle-like bill.
+5. The bird has a hooked bill, typical of seabirds.
+6. The bird has a broad, spatula-shaped bill.
+7. The bird has a versatile bill suitable for multiple purposes.
+8. The bird has a conical-shaped bill, often seen in seed-eating birds.
+9. The bird has a uniquely specialized bill for its feeding habits.
+10. The bird's wings are primarily blue in color.
+11. The bird's wings are mostly brown.
+12. The bird's wings have an iridescent sheen.
+13. The bird's wings feature purple coloration.
+14. The bird's wings display a rufous (reddish-brown) hue.
+15. The bird's wings are mostly grey.
+16. The bird's wings have yellow tones.
+17. The bird's wings are olive-colored.
+18. The bird's wings are primarily green.
+19. The bird's wings have a pinkish hue.
+20. The bird's wings have orange coloration.
+21. The bird's wings are black.
+22. The bird's wings are white.
+23. The bird's wings are red.
+24. The bird's wings have a buff (pale yellow-brown) coloration.
+25. The bird's upper body is blue.
+26. The bird's upper body is brown.
+27. The bird's upper body has an iridescent sheen.
+28. The bird's upper body is purple.
+29. The bird's upper body is rufous (reddish-brown).
+30. The bird's upper body is grey.
+31. The bird's upper body is yellow.
+32. The bird's upper body is olive.
+33. The bird's upper body is green.
+34. The bird's upper body is pink.
+35. The bird's upper body is orange.
+36. The bird's upper body is black.
+37. The bird's upper body is white.
+38. The bird's upper body is red.
+39. The bird's upper body is buff (pale yellow-brown).
+40. The bird's underparts are blue.
+41. The bird's underparts are brown.
+42. The bird's underparts have an iridescent sheen.
+43. The bird's underparts are purple.
+44. The bird's underparts are rufous (reddish-brown).
+45. The bird's underparts are grey.
+46. The bird's underparts are yellow.
+47. The bird's underparts are olive.
+48. The bird's underparts are green.
+49. The bird's underparts are pink.
+50. The bird's underparts are orange.
+51. The bird's underparts are black.
+52. The bird's underparts are white.
+53. The bird's underparts are red.
+54. The bird's underparts are buff (pale yellow-brown).
+55. The bird's breast has a solid color.
+56. The bird's breast has a spotted pattern.
+57. The bird's breast has a striped pattern.
+58. The bird's breast has a multi-colored pattern.
+59. The bird's back is blue.
+60. The bird's back is brown.
+61. The bird's back has an iridescent sheen.
+62. The bird's back is purple.
+63. The bird's back is rufous (reddish-brown).
+64. The bird's back is grey.
+65. The bird's back is yellow.
+66. The bird's back is olive.
+67. The bird's back is green.
+68. The bird's back is pink.
+69. The bird's back is orange.
+70. The bird's back is black.
+71. The bird's back is white.
+72. The bird's back is red.
+73. The bird's back is buff (pale yellow-brown).
+74. The bird has a forked tail.
+75. The bird has a rounded tail.
+76. The bird has a notched tail.
+77. The bird has a fan-shaped tail.
+78. The bird has a pointed tail.
+79. The bird has a squared tail.
+80. The bird's upper tail is blue.
+81. The bird's upper tail is brown.
+82. The bird's upper tail has an iridescent sheen.
+83. The bird's upper tail is purple.
+84. The bird's upper tail is rufous (reddish-brown).
+85. The bird's upper tail is grey.
+86. The bird's upper tail is yellow.
+87. The bird's upper tail is olive.
+88. The bird's upper tail is green.
+89. The bird's upper tail is pink.
+90. The bird's upper tail is orange.
+91. The bird's upper tail is black.
+92. The bird's upper tail is white.
+93. The bird's upper tail is red.
+94. The bird's upper tail is buff (pale yellow-brown).
+95. The bird's head has a spotted pattern.
+96. The bird has a dark malar stripe along its cheek.
+97. The bird has a crest on its head.
+98. The bird has a black mask-like marking on its head.
+99. The bird has a unique pattern on its head.
+100. The bird has a light eyebrow marking above its eyes.
+101. The bird has a distinct eyering surrounding its eyes.
+102. The bird's head has a plain coloration.
+103. The bird has a visible eyeline stripe on its head.
+104. The bird's head has a striped pattern.
+105. The bird's head has a distinct capped marking.
+106. The bird's breast is blue.
+107. The bird's breast is brown.
+108. The bird's breast has an iridescent sheen.
+109. The bird's breast is purple.
+110. The bird's breast is rufous (reddish-brown).
+111. The bird's breast is grey.
+112. The bird's breast is yellow.
+113. The bird's breast is olive.
+114. The bird's breast is green.
+115. The bird's breast is pink.
+116. The bird's breast is orange.
+117. The bird's breast is black.
+118. The bird's breast is white.
+119. The bird's breast is red.
+120. The bird's breast is buff (pale yellow-brown).
+121. The bird's throat is blue.
+122. The bird's throat is brown.
+123. The bird's throat has an iridescent sheen.
+124. The bird's throat is purple.
+125. The bird's throat is rufous (reddish-brown).
+126. The bird's throat is grey.
+127. The bird's throat is yellow.
+128. The bird's throat is olive.
+129. The bird's throat is green.
+130. The bird's throat is pink.
+131. The bird's throat is orange.
+132. The bird's throat is black.
+133. The bird's throat is white.
+134. The bird's throat is red.
+135. The bird's throat is buff (pale yellow-brown).
+136. The bird's eyes are blue.
+137. The bird's eyes are brown.
+138. The bird's eyes are purple.
+139. The bird's eyes are rufous (reddish-brown).
+140. The bird's eyes are grey.
+141. The bird's eyes are yellow.
+142. The bird's eyes are olive.
+143. The bird's eyes are green.
+144. The bird's eyes are pink.
+145. The bird's eyes are orange.
+146. The bird's eyes are black.
+147. The bird's eyes are white.
+148. The bird's eyes are red.
+149. The bird's eyes are buff (pale yellow-brown).
+150. The bird's bill is about the same length as its head.
+151. The bird's bill is longer than its head.
+152. The bird's bill is shorter than its head.
+153. The bird's forehead is blue.
+154. The bird's forehead is brown.
+155. The bird's forehead has an iridescent sheen.
+156. The bird's forehead is purple.
+157. The bird's forehead is rufous (reddish-brown).
+158. The bird's forehead is grey.
+159. The bird's forehead is yellow.
+160. The bird's forehead is olive.
+161. The bird's forehead is green.
+162. The bird's forehead is pink.
+163. The bird's forehead is orange.
+164. The bird's forehead is black.
+165. The bird's forehead is white.
+166. The bird's forehead is red.
+167. The bird's forehead is buff (pale yellow-brown).
+168. The underside of the bird's tail is blue.
+169. The underside of the bird's tail is brown.
+170. The underside of the bird's tail has an iridescent sheen.
+171. The underside of the bird's tail is purple.
+172. The underside of the bird's tail is rufous (reddish-brown).
+173. The underside of the bird's tail is grey.
+174. The underside of the bird's tail is yellow.
+175. The underside of the bird's tail is olive.
+176. The underside of the bird's tail is green.
+177. The underside of the bird's tail is pink.
+178. The underside of the bird's tail is orange.
+179. The underside of the bird's tail is black.
+180. The underside of the bird's tail is white.
+181. The underside of the bird's tail is red.
+182. The underside of the bird's tail is buff (pale yellow-brown).
+183. The bird's nape is blue.
+184. The bird's nape is brown.
+185. The bird's nape has an iridescent sheen.
+186. The bird's nape is purple.
+187. The bird's nape is rufous (reddish-brown).
+188. The bird's nape is grey.
+189. The bird's nape is yellow.
+190. The bird's nape is olive.
+191. The bird's nape is green.
+192. The bird's nape is pink.
+193. The bird's nape is orange.
+194. The bird's nape is black.
+195. The bird's nape is white.
+196. The bird's nape is red.
+197. The bird's nape is buff (pale yellow-brown).
+198. The bird's belly is blue.
+199. The bird's belly is brown.
+200. The bird's belly has an iridescent sheen.
+201. The bird's belly is purple.
+202. The bird's belly is rufous (reddish-brown).
+203. The bird's belly is grey.
+204. The bird's belly is yellow.
+205. The bird's belly is olive.
+206. The bird's belly is green.
+207. The bird's belly is pink.
+208. The bird's belly is orange.
+209. The bird's belly is black.
+210. The bird's belly is white.
+211. The bird's belly is red.
+212. The bird's belly is buff (pale yellow-brown).
+213. The bird has rounded wings.
+214. The bird has pointed wings.
+215. The bird has broad wings.
+216. The bird has tapered wings.
+217. The bird has long wings.
+218. The bird is large, measuring 16 to 32 inches.
+219. The bird is small, measuring 5 to 9 inches.
+220. The bird is very large, measuring 32 to 72 inches.
+221. The bird is medium-sized, measuring 9 to 16 inches.
+222. The bird is very small, measuring 3 to 5 inches.
+223. The bird has an upright posture and is water-adapted.
+224. The bird resembles a chicken and is often found in marshy areas.
+225. The bird has long legs suitable for wading.
+226. The bird has a body shape similar to ducks.
+227. The bird has a body shape similar to owls.
+228. The bird has a body shape similar to gulls.
+229. The bird has a body shape similar to hummingbirds.
+230. The bird has a body shape similar to pigeons.
+231. The bird clings to tree trunks.
+232. The bird has a body shape similar to hawks.
+233. The bird has a body shape similar to sandpipers.
+234. The bird is adapted for upland ground habitats.
+235. The bird has a body shape similar to swallows.
+236. The bird has a perching bird body type.
+237. The bird's back has a solid color.
+238. The bird's back has a spotted pattern.
+239. The bird's back has a striped pattern.
+240. The bird's back has a multi-colored pattern.
+241. The bird's tail has a solid color.
+242. The bird's tail has a spotted pattern.
+243. The bird's tail has a striped pattern.
+244. The bird's tail has a multi-colored pattern.
+245. The bird's belly has a solid color.
+246. The bird's belly has a spotted pattern.
+247. The bird's belly has a striped pattern.
+248. The bird's belly has a multi-colored pattern.
+249. The bird's primary body color is blue.
+250. The bird's primary body color is brown.
+251. The bird's primary body color has an iridescent sheen.
+252. The bird's primary body color is purple.
+253. The bird's primary body color is rufous (reddish-brown).
+254. The bird's primary body color is grey.
+255. The bird's primary body color is yellow.
+256. The bird's primary body color is olive.
+257. The bird's primary body color is green.
+258. The bird's primary body color is pink.
+259. The bird's primary body color is orange.
+260. The bird's primary body color is black.
+261. The bird's primary body color is white.
+262. The bird's primary body color is red.
+263. The bird's primary body color is buff (pale yellow-brown).
+264. The bird's legs are blue.
+265. The bird's legs are brown.
+266. The bird's legs have an iridescent sheen.
+267. The bird's legs are purple.
+268. The bird's legs are rufous (reddish-brown).
+269. The bird's legs are grey.
+270. The bird's legs are yellow.
+271. The bird's legs are olive-colored.
+272. The bird's legs are green.
+273. The bird's legs are pink.
+274. The bird's legs are orange.
+275. The bird's legs are black.
+276. The bird's legs are white.
+277. The bird's legs are red.
+278. The bird's legs are buff (pale yellow-brown).
+279. The bird's bill is blue.
+280. The bird's bill is brown.
+281. The bird's bill has an iridescent sheen.
+282. The bird's bill is purple.
+283. The bird's bill is rufous (reddish-brown).
+284. The bird's bill is grey.
+285. The bird's bill is yellow.
+286. The bird's bill is olive-colored.
+287. The bird's bill is green.
+288. The bird's bill is pink.
+289. The bird's bill is orange.
+290. The bird's bill is black.
+291. The bird's bill is white.
+292. The bird's bill is red.
+293. The bird's bill is buff (pale yellow-brown).
+294. The bird's crown (top of the head) is blue.
+295. The bird's crown (top of the head) is brown.
+296. The bird's crown (top of the head) has an iridescent sheen.
+297. The bird's crown (top of the head) is purple.
+298. The bird's crown (top of the head) is rufous (reddish-brown).
+299. The bird's crown (top of the head) is grey.
+300. The bird's crown (top of the head) is yellow.
+301. The bird's crown (top of the head) is olive-colored.
+302. The bird's crown (top of the head) is green.
+303. The bird's crown (top of the head) is pink.
+304. The bird's crown (top of the head) is orange.
+305. The bird's crown (top of the head) is black.
+306. The bird's crown (top of the head) is white.
+307. The bird's crown (top of the head) is red.
+308. The bird's crown (top of the head) is buff (pale yellow-brown).
+309. The bird's wings have a solid color pattern.
+310. The bird's wings have a spotted pattern.
+311. The bird's wings have a striped pattern.
+312. The bird's wings have a multi-colored pattern.

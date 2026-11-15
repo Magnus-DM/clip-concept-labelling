@@ -1,0 +1,3 @@
+I have uploaded a CSV file containing a list of attribute names. We are using a model based on CLIP to automatically classify these attributes as present or absent in images. However, not all attributes are equally suitable for CLIP. Some may be too niche, too subtle, or conceptually difficult—making them unreliable for the model to classify accurately (for example, attributes that even humans struggle to label correctly).
+
+Analyze the list of attributes in the CSV and return a new CSV file (with the same format) that contains only the attributes likely to be well-recognized and reliably classified by CLIP. These should be attributes that are clearly visible, common, and well-aligned with CLIP’s general training data (e.g., distinct physical traits or objects).

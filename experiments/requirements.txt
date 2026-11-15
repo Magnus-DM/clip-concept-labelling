@@ -1,0 +1,5 @@
+# Extra packages for the research scripts. CPU wheels:
+#   pip install -r experiments/requirements.txt --extra-index-url https://download.pytorch.org/whl/cpu
+-r ../requirements-clip.txt
+pandas==3.1.1
+scikit-learn==1.9.1

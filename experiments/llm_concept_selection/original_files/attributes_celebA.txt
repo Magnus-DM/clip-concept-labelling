@@ -1,0 +1,40 @@
+1 5 o Clock Shadow
+2 Arched Eyebrows
+3 Attractive
+4 Bags Under Eyes
+5 Bald
+6 Bangs
+7 Big Lips
+8 Big Nose
+9 Black Hair
+10 Blond Hair
+11 Blurry
+12 Brown Hair
+13 Bushy Eyebrows
+14 Chubby
+15 Double Chin
+16 Eyeglasses
+17 Goatee
+18 Gray Hair
+19 Heavy Makeup
+20 High Cheekbones
+21 Male
+22 Mouth Slightly Open
+23 Mustache
+24 Narrow Eyes
+25 No Beard
+26 Oval Face
+27 Pale Skin
+28 Pointy Nose
+29 Receding Hairline
+30 Rosy Cheeks
+31 Sideburns
+32 Smiling
+33 Straight Hair
+34 Wavy Hair
+35 Wearing Earrings
+36 Wearing Hat
+37 Wearing Lipstick
+38 Wearing Necklace
+39 Wearing Necktie
+40 Young

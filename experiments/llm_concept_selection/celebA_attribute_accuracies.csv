@@ -1,0 +1,41 @@
+attribute_number,label,balanced_accuracy,accuracy
+6,Bangs,0.8171,0.7964
+17,Goatee,0.8153,0.7258
+16,Eyeglasses,0.7983,0.9264
+10,Blond Hair,0.7874,0.6828
+32,Smiling,0.7807,0.7768
+19,Heavy Makeup,0.7623,0.7529
+36,Wearing Hat,0.7600,0.6767
+5,Bald,0.7587,0.7638
+37,Wearing Lipstick,0.7399,0.7443
+21,Male,0.7339,0.7579
+9,Black Hair,0.7133,0.7576
+40,Young,0.7112,0.7453
+23,Mustache,0.6849,0.8005
+27,Pale Skin,0.6843,0.7841
+12,Brown Hair,0.6839,0.6346
+34,Wavy Hair,0.6822,0.6470
+3,Attractive,0.6415,0.6458
+29,Receding Hairline,0.6410,0.4659
+38,Wearing Necklace,0.6402,0.5272
+31,Sideburns,0.6387,0.5147
+11,Blurry,0.6356,0.6463
+2,Arched Eyebrows,0.6219,0.4656
+18,Gray Hair,0.5919,0.4183
+39,Wearing Necktie,0.5918,0.3667
+1,5 o Clock Shadow,0.5827,0.6298
+35,Wearing Earrings,0.5810,0.3446
+22,Mouth Slightly Open,0.5761,0.5734
+33,Straight Hair,0.5728,0.6844
+13,Bushy Eyebrows,0.5648,0.2983
+28,Pointy Nose,0.5612,0.4707
+7,Big Lips,0.5571,0.6291
+26,Oval Face,0.5083,0.3356
+30,Rosy Cheeks,0.4986,0.6478
+14,Chubby,0.4849,0.7562
+24,Narrow Eyes,0.4814,0.4881
+15,Double Chin,0.4599,0.5427
+20,High Cheekbones,0.4476,0.4436
+4,Bags Under Eyes,0.4445,0.3138
+8,Big Nose,0.4358,0.4256
+25,Beard,0.8374,0.7807

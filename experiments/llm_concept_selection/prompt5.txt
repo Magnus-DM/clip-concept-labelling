@@ -1,0 +1,11 @@
+I have a list of visual attributes describing objects or entities (such as animals, products, scenes, etc.). I am using a CLIP-based model to classify these attributes as present or absent in real-world images. I need to filter the list to retain only attributes that CLIP is likely to classify reliably. Please evaluate each attribute across the following key factors:
+
+    Pretraining coverage: Is the attribute likely to be well-represented in CLIP’s large-scale pretraining data? For example, widely recognized, frequently photographed traits (e.g., ‘red color,’ ‘round shape,’ or ‘long tail’) are typically safer than obscure, specialized, or technical features that appear mostly in expert-only datasets.
+
+    Photographic salience: Even if an attribute exists physically, is it typically prominent and clearly visible in natural photos? Attributes that are usually occluded, tiny in scale, or backgrounded (e.g., fine texture of a surface, underside of a small part) may be unreliable because they are not emphasized in typical images.
+
+    Visual distinctiveness: Does the attribute have a clear, distinctive visual signature that is easily recognized by general vision systems? Broad, simple features (e.g., ‘bright color,’ ‘striped pattern’) tend to work better than attributes requiring expert-level discrimination (e.g., differentiating between slightly varying curvature or microscopic details).
+
+    Confounding risk: Could the attribute be easily confused with unrelated visual patterns or artifacts? For example, shadowing, reflections, dirt, or lighting changes can mimic certain attributes, making them unreliable for consistent classification.
+
+Filter the attributes to keep only those that score well across all these criteria: (1) common and well-represented in training data, (2) salient and typically visible in natural photos, (3) visually distinct and not dependent on expert-level nuance, and (4) unlikely to be misled by confounding visual effects. Discard any attribute that fails on any of these points. Return a CSV file with the selection in the same format as the input.

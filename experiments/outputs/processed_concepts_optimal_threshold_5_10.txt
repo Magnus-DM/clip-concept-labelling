@@ -1,0 +1,199 @@
+Information for 5% of the images and 10% of the conceps, using the processed concept names of the CUB dataset:
+
+Optimal threshold information for the norm of the difference between the image and attribute embeddings:
+
+
+ Best according to accuracy
+
+Threshold index 0 of the 18880
+Threshold value -inf
+Accuracy if below threshold predicts 0 and above predicts 1 0.11133474576271186
+Accuracy if below threshold predicts 1 and above predicts 0 0.8886652542372881
+Balanced accuracy if below threshold predicts 0 and above predicts 1 0.5
+Balanced accuracy if below threshold predicts 1 and above predicts 0 0.5
+Precision if below threshold predicts 0 and above predicts 1 0.11133474576271186
+Precision if below threshold predicts 1 and above predicts 0 0
+Recall if below threshold predicts 0 and above predicts 1 1.0
+Recall if below threshold predicts 1 and above predicts 0 0.0
+F1 score if below threshold predicts 0 and above predicts 1 0.2003622152321037
+F1 score if below threshold predicts 1 and above predicts 0 0
+
+ Best according to balanced accuracy
+
+Threshold index 15657 of the 18880
+Threshold value 12.436488151550293
+Accuracy if below threshold predicts 0 and above predicts 1 0.7696504237288135
+Accuracy if below threshold predicts 1 and above predicts 0 0.23034957627118643
+Balanced accuracy if below threshold predicts 0 and above predicts 1 0.5345743809090764
+Balanced accuracy if below threshold predicts 1 and above predicts 0 0.46542561909092367
+Precision if below threshold predicts 0 and above predicts 1 0.15141172820353707
+Precision if below threshold predicts 1 and above predicts 0 0.10308488216133359
+Recall if below threshold predicts 0 and above predicts 1 0.23215984776403426
+Recall if below threshold predicts 1 and above predicts 0 0.7678401522359658
+F1 score if below threshold predicts 0 and above predicts 1 0.18328638497652586
+F1 score if below threshold predicts 1 and above predicts 0 0.18176699138465002
+
+ Best according to f1 score 
+
+Threshold index 1482 of the 18880
+Threshold value 11.401908874511719
+Accuracy if below threshold predicts 0 and above predicts 1 0.1816737288135593
+Accuracy if below threshold predicts 1 and above predicts 0 0.8183262711864406
+Balanced accuracy if below threshold predicts 0 and above predicts 1 0.5235544167246334
+Balanced accuracy if below threshold predicts 1 and above predicts 0 0.4764455832753666
+Precision if below threshold predicts 0 and above predicts 1 0.1163926888148063
+Precision if below threshold predicts 1 and above predicts 0 0.05195681511470985
+Recall if below threshold predicts 0 and above predicts 1 0.9633682207421503
+Recall if below threshold predicts 1 and above predicts 0 0.03663177925784967
+F1 score if below threshold predicts 0 and above predicts 1 0.20769230769230768
+F1 score if below threshold predicts 1 and above predicts 0 0.04296875
+
+ --------------------
+
+Optimal threshold information for the cosine similarity between the image and attribute embeddings:
+
+
+ Best according to accuracy
+
+Threshold index 0 of the 18880
+Threshold value -inf
+Accuracy if below threshold predicts 0 and above predicts 1 0.11133474576271186
+Accuracy if below threshold predicts 1 and above predicts 0 0.8886652542372881
+Balanced accuracy if below threshold predicts 0 and above predicts 1 0.5
+Balanced accuracy if below threshold predicts 1 and above predicts 0 0.5
+Precision if below threshold predicts 0 and above predicts 1 0.11133474576271186
+Precision if below threshold predicts 1 and above predicts 0 0
+Recall if below threshold predicts 0 and above predicts 1 1.0
+Recall if below threshold predicts 1 and above predicts 0 0.0
+F1 score if below threshold predicts 0 and above predicts 1 0.2003622152321037
+F1 score if below threshold predicts 1 and above predicts 0 0
+
+ Best according to balanced accuracy
+
+Threshold index 11494 of the 18880
+Threshold value 0.2652061879634857
+Accuracy if below threshold predicts 0 and above predicts 1 0.6284957627118644
+Accuracy if below threshold predicts 1 and above predicts 0 0.3715042372881356
+Balanced accuracy if below threshold predicts 0 and above predicts 1 0.6109976602725762
+Balanced accuracy if below threshold predicts 1 and above predicts 0 0.3890023397274238
+Precision if below threshold predicts 0 and above predicts 1 0.16747901435147577
+Precision if below threshold predicts 1 and above predicts 0 0.07525665564642423
+Recall if below threshold predicts 0 and above predicts 1 0.5884871550903901
+Recall if below threshold predicts 1 and above predicts 0 0.4115128449096099
+F1 score if below threshold predicts 0 and above predicts 1 0.2607504215851602
+F1 score if below threshold predicts 1 and above predicts 0 0.12724330685495736
+
+ Best according to f1 score
+
+Threshold index 13030 of the 18880
+Threshold value 0.2703956812620163
+Accuracy if below threshold predicts 0 and above predicts 1 0.6903601694915255
+Accuracy if below threshold predicts 1 and above predicts 0 0.3096398305084746
+Balanced accuracy if below threshold predicts 0 and above predicts 1 0.607520677195081
+Balanced accuracy if below threshold predicts 1 and above predicts 0 0.3924793228049191
+Precision if below threshold predicts 0 and above predicts 1 0.18
+Precision if below threshold predicts 1 and above predicts 0 0.08050652340752111
+Recall if below threshold predicts 0 and above predicts 1 0.5009514747859182
+Recall if below threshold predicts 1 and above predicts 0 0.49904852521408183
+F1 score if below threshold predicts 0 and above predicts 1 0.26483903420523136
+F1 score if below threshold predicts 1 and above predicts 0 0.13864657679090672
+
+ --------------------
+
+Optimal threshold information for the angle between the image and attribute embeddings:
+
+
+ Best according to accuracy
+
+Threshold index 0 of the 18880
+Threshold value -inf
+Accuracy if below threshold predicts 0 and above predicts 1 0.11133474576271186
+Accuracy if below threshold predicts 1 and above predicts 0 0.8886652542372881
+Balanced accuracy if below threshold predicts 0 and above predicts 1 0.5
+Balanced accuracy if below threshold predicts 1 and above predicts 0 0.5
+Precision if below threshold predicts 0 and above predicts 1 0.11133474576271186
+Precision if below threshold predicts 1 and above predicts 0 0
+Recall if below threshold predicts 0 and above predicts 1 1.0
+Recall if below threshold predicts 1 and above predicts 0 0.0
+F1 score if below threshold predicts 0 and above predicts 1 0.2003622152321037
+F1 score if below threshold predicts 1 and above predicts 0 0
+
+ Best according to balanced accuracy
+
+Threshold index 7386 of the 18880
+Threshold value 1.302387297153473
+Accuracy if below threshold predicts 0 and above predicts 1 0.3715042372881356
+Accuracy if below threshold predicts 1 and above predicts 0 0.6284957627118644
+Balanced accuracy if below threshold predicts 0 and above predicts 1 0.3890023397274238
+Balanced accuracy if below threshold predicts 1 and above predicts 0 0.6109976602725762
+Precision if below threshold predicts 0 and above predicts 1 0.07525665564642423
+Precision if below threshold predicts 1 and above predicts 0 0.16747901435147577
+Recall if below threshold predicts 0 and above predicts 1 0.4115128449096099
+Recall if below threshold predicts 1 and above predicts 0 0.5884871550903901
+F1 score if below threshold predicts 0 and above predicts 1 0.12724330685495736
+F1 score if below threshold predicts 1 and above predicts 0 0.2607504215851602
+
+ Best according to f1 score
+
+Threshold index 5850 of the 18880
+Threshold value 1.2969983220100403
+Accuracy if below threshold predicts 0 and above predicts 1 0.3096398305084746
+Accuracy if below threshold predicts 1 and above predicts 0 0.6903601694915255
+Balanced accuracy if below threshold predicts 0 and above predicts 1 0.3924793228049191
+Balanced accuracy if below threshold predicts 1 and above predicts 0 0.607520677195081
+Precision if below threshold predicts 0 and above predicts 1 0.08050652340752111
+Precision if below threshold predicts 1 and above predicts 0 0.18
+Recall if below threshold predicts 0 and above predicts 1 0.49904852521408183
+Recall if below threshold predicts 1 and above predicts 0 0.5009514747859182
+F1 score if below threshold predicts 0 and above predicts 1 0.13864657679090672
+F1 score if below threshold predicts 1 and above predicts 0 0.26483903420523136
+
+ --------------------
+
+Optimal threshold information for the dot product between the image and attribute embeddings:
+
+
+ Best according to accuracy
+
+Threshold index 18862 of the 18880
+Threshold value 33.095420837402344
+Accuracy if below threshold predicts 0 and above predicts 1 0.8889830508474577
+Accuracy if below threshold predicts 1 and above predicts 0 0.11101694915254237
+Balanced accuracy if below threshold predicts 0 and above predicts 1 0.5026756187790204
+Balanced accuracy if below threshold predicts 1 and above predicts 0 0.49732438122097955
+Precision if below threshold predicts 0 and above predicts 1 0.6666666666666666
+Precision if below threshold predicts 1 and above predicts 0 0.11080479270490934
+Recall if below threshold predicts 0 and above predicts 1 0.005708848715509039
+Recall if below threshold predicts 1 and above predicts 0 0.994291151284491
+F1 score if below threshold predicts 0 and above predicts 1 0.011320754716981131
+F1 score if below threshold predicts 1 and above predicts 0 0.19938942949818736
+
+ Best according to balanced accuracy
+
+Threshold index 11237 of the 18880
+Threshold value 25.831828117370605
+Accuracy if below threshold predicts 0 and above predicts 1 0.6167902542372882
+Accuracy if below threshold predicts 1 and above predicts 0 0.3832097457627119
+Balanced accuracy if below threshold predicts 0 and above predicts 1 0.6081568745896346
+Balanced accuracy if below threshold predicts 1 and above predicts 0 0.3918431254103653
+Precision if below threshold predicts 0 and above predicts 1 0.1642025382703127
+Precision if below threshold predicts 1 and above predicts 0 0.07537599003292694
+Recall if below threshold predicts 0 and above predicts 1 0.5970504281636536
+Recall if below threshold predicts 1 and above predicts 0 0.40294957183634633
+F1 score if below threshold predicts 0 and above predicts 1 0.2575679835813237
+F1 score if below threshold predicts 1 and above predicts 0 0.12699602668865734
+
+ Best according to f1 score
+
+Threshold index 12775 of the 18880
+Threshold value 26.46580696105957
+Accuracy if below threshold predicts 0 and above predicts 1 0.6782309322033898
+Accuracy if below threshold predicts 1 and above predicts 0 0.3217690677966102
+Balanced accuracy if below threshold predicts 0 and above predicts 1 0.6034011452403747
+Balanced accuracy if below threshold predicts 1 and above predicts 0 0.3965988547596253
+Precision if below threshold predicts 0 and above predicts 1 0.1746109746109746
+Precision if below threshold predicts 1 and above predicts 0 0.08109589041095891
+Recall if below threshold predicts 0 and above predicts 1 0.5071360608943863
+Recall if below threshold predicts 1 and above predicts 0 0.4928639391056137
+F1 score if below threshold predicts 0 and above predicts 1 0.25977823808943584
+F1 score if below threshold predicts 1 and above predicts 0 0.1392753915439941

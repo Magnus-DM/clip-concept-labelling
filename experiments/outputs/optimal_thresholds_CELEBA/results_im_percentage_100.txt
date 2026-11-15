@@ -1,0 +1,83 @@
+--------------------------------------------------------------
+Ranking of concepts best suited for thresholding based on cosine similarity :
+--------------------------------------------------------------
+Attribute 16: Threshold = 0.19701451808214188, Balanced Accuracy = 0.8382657342657343
+
+Attribute 10: Threshold = 0.22124280035495758, Balanced Accuracy = 0.831271895027145
+
+Attribute 17: Threshold = 0.2143823206424713, Balanced Accuracy = 0.8266187236006232
+
+Attribute 6: Threshold = 0.21113580465316772, Balanced Accuracy = 0.8221728760065253
+
+Attribute 36: Threshold = 0.22007181495428085, Balanced Accuracy = 0.8087572049143679
+
+Attribute 32: Threshold = 0.21442225575447083, Balanced Accuracy = 0.7969459720272865
+
+Attribute 5: Threshold = 0.21308930218219757, Balanced Accuracy = 0.767887947631497
+
+Attribute 19: Threshold = 0.20775555074214935, Balanced Accuracy = 0.7645639159523543
+
+Attribute 37: Threshold = 0.2037319391965866, Balanced Accuracy = 0.7546927738280342
+
+Attribute 21: Threshold = 0.20221548527479172, Balanced Accuracy = 0.7541953857319604
+
+Attribute 9: Threshold = 0.20240387320518494, Balanced Accuracy = 0.7249801840577845
+
+Attribute 40: Threshold = 0.21098840236663818, Balanced Accuracy = 0.7150451257572243
+
+Attribute 27: Threshold = 0.20178114622831345, Balanced Accuracy = 0.6946699524246165
+
+Attribute 23: Threshold = 0.20506270974874496, Balanced Accuracy = 0.6921196315916648
+
+Attribute 12: Threshold = 0.213251031935215, Balanced Accuracy = 0.6896893165020466
+
+Attribute 34: Threshold = 0.21358533203601837, Balanced Accuracy = 0.6868401289036768
+
+Attribute 35: Threshold = 0.23074562847614288, Balanced Accuracy = 0.6866333123120629
+
+Attribute 2: Threshold = 0.22403451055288315, Balanced Accuracy = 0.6740047333140218
+
+Attribute 29: Threshold = 0.22064600884914398, Balanced Accuracy = 0.6631909182391746
+
+Attribute 39: Threshold = 0.22289049625396729, Balanced Accuracy = 0.6570666995476792
+
+Attribute 13: Threshold = 0.22703170776367188, Balanced Accuracy = 0.6462182966748569
+
+Attribute 31: Threshold = 0.21166706085205078, Balanced Accuracy = 0.6447151846230164
+
+Attribute 11: Threshold = 0.21197590976953506, Balanced Accuracy = 0.6446740126207651
+
+Attribute 3: Threshold = 0.2108973190188408, Balanced Accuracy = 0.6430089271316295
+
+Attribute 38: Threshold = 0.20815031975507736, Balanced Accuracy = 0.6416615829760759
+
+Attribute 18: Threshold = 0.22306165844202042, Balanced Accuracy = 0.6329064615268587
+
+Attribute 1: Threshold = 0.20073215663433075, Balanced Accuracy = 0.6122366685695975
+
+Attribute 22: Threshold = 0.20844502747058868, Balanced Accuracy = 0.5761071817446531
+
+Attribute 33: Threshold = 0.20717743039131165, Balanced Accuracy = 0.5741579417496234
+
+Attribute 28: Threshold = 0.20997854322195053, Balanced Accuracy = 0.5613887808552411
+
+Attribute 7: Threshold = 0.207533597946167, Balanced Accuracy = 0.5589571594930473
+
+Attribute 26: Threshold = 0.22238069027662277, Balanced Accuracy = 0.5202186541770843
+
+Attribute 30: Threshold = 0.1978539675474167, Balanced Accuracy = 0.5096875141578142
+
+Attribute 14: Threshold = 0.23475781828165054, Balanced Accuracy = 0.5060550676766841
+
+Attribute 15: Threshold = 0.251499280333519, Balanced Accuracy = 0.5035332764930986
+
+Attribute 24: Threshold = 0.17344139516353607, Balanced Accuracy = 0.5002545258454915
+
+Attribute 4: Threshold = 0.1726198047399521, Balanced Accuracy = 0.5001802943303397
+
+Attribute 20: Threshold = 0.13967282325029373, Balanced Accuracy = 0.5000206863195172
+
+Attribute 8: Threshold = -inf, Balanced Accuracy = 0.5
+
+Attribute 25: Threshold = -inf, Balanced Accuracy = 0.5
+

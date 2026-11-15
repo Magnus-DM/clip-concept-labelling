@@ -1,0 +1,13 @@
+Loaded the best model with validation loss: 0.6259
+Test Loss on best model: 0.6346
+Test Unweighted Loss on best model: 0.3391
+Test Accuracy with threshold 0.5 on best model: 0.8304
+Test Accuracy with threshold 0.6 on best model: 0.8598
+Test Accuracy with threshold 0.7 on best model: 0.8870
+Test Accuracy with threshold 0.8 on best model: 0.9095
+Test Accuracy with threshold 0.9 on best model: 0.9206
+Test F1 score with threshold 0.5 on best model: 0.5089
+Test F1 score with threshold 0.6 on best model: 0.5412
+Test F1 score with threshold 0.7 on best model: 0.5690
+Test F1 score with threshold 0.8 on best model: 0.5757
+Test F1 score with threshold 0.9 on best model: 0.5061

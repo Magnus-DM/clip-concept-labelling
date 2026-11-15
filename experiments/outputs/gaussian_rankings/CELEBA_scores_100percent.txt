@@ -1,0 +1,78 @@
+1. Attribute 10, Score: 37.24623059664278
+
+2. Attribute 16, Score: 36.2316274237201
+
+3. Attribute 6, Score: 33.873619646717614
+
+4. Attribute 17, Score: 16.724786307393842
+
+5. Attribute 32, Score: 15.713492136957992
+
+6. Attribute 12, Score: 15.216562487508732
+
+7. Attribute 9, Score: 12.648225984632429
+
+8. Attribute 37, Score: 12.133606385650925
+
+9. Attribute 2, Score: 10.597904246528206
+
+10. Attribute 40, Score: 9.573706751679154
+
+11. Attribute 29, Score: 8.018095178113468
+
+12. Attribute 20, Score: 6.942749975423295
+
+13. Attribute 28, Score: 6.750596535255369
+
+14. Attribute 5, Score: 4.802693583106175
+
+15. Attribute 3, Score: 3.73856914664605
+
+16. Attribute 21, Score: 3.289992574820924
+
+17. Attribute 19, Score: 2.427239160767223
+
+18. Attribute 33, Score: 1.3511670523363897
+
+19. Attribute 1, Score: 1.0838458187556212
+
+20. Attribute 23, Score: 0.3646619419405166
+
+21. Attribute 27, Score: -0.18781222815723836
+
+22. Attribute 38, Score: -2.237561367845945
+
+23. Attribute 30, Score: -3.8661949812575562
+
+24. Attribute 31, Score: -6.780669022993043
+
+25. Attribute 34, Score: -8.269971082618992
+
+26. Attribute 8, Score: -10.511180417226418
+
+27. Attribute 26, Score: -10.711205947047862
+
+28. Attribute 11, Score: -10.947445137525506
+
+29. Attribute 7, Score: -11.469053531559595
+
+30. Attribute 22, Score: -12.299677421501846
+
+31. Attribute 39, Score: -12.595264488995236
+
+32. Attribute 15, Score: -12.722137371887568
+
+33. Attribute 14, Score: -12.832539302754093
+
+34. Attribute 4, Score: -13.51590092135152
+
+35. Attribute 35, Score: -16.57711739444248
+
+36. Attribute 13, Score: -16.616569958040905
+
+37. Attribute 24, Score: -17.438781761291725
+
+38. Attribute 18, Score: -18.833524417043797
+
+39. Attribute 36, Score: -24.71133374318808
+
